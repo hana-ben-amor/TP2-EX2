@@ -1,0 +1,7 @@
+C:\Users\hanab\source\repos\EX2_P2\bin\Debug\EX2_P2.exe.config
+C:\Users\hanab\source\repos\EX2_P2\bin\Debug\EX2_P2.exe
+C:\Users\hanab\source\repos\EX2_P2\bin\Debug\EX2_P2.pdb
+C:\Users\hanab\source\repos\EX2_P2\obj\Debug\EX2_P2.csproj.AssemblyReference.cache
+C:\Users\hanab\source\repos\EX2_P2\obj\Debug\EX2_P2.csproj.CoreCompileInputs.cache
+C:\Users\hanab\source\repos\EX2_P2\obj\Debug\EX2_P2.exe
+C:\Users\hanab\source\repos\EX2_P2\obj\Debug\EX2_P2.pdb
